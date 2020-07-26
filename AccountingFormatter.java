@@ -2,12 +2,9 @@ import java.text.DecimalFormat;
 
 /** 
  * Title: Assignment 4
- * Semester: COP3337 – Fall 2019
+ * Semester: COP3337 â€“ Fall 2019
  * @author Megan Jane Thompson
  *
- * I affirm that this program is entirely my own work
- * and none of it is the work of any other person.
- * 
  * This program extends NumberFormatter interface 
  * and formats negative numbers with parenthesis.
  * For example, -1 as (1).
