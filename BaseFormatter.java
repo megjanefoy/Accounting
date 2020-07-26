@@ -1,11 +1,8 @@
 /** 
  * Title: Assignment 4
- * Semester: COP3337 – Fall 2019
+ * Semester: COP3337 â€“ Fall 2019
  * @author Megan Jane Thompson
  *
- * I affirm that this program is entirely my own work
- * and none of it is the work of any other person.
- * 
  * This program extends NumberFormatter interface
  * and formats the number as base n, where n is
  * any number between 2 and 36 that is provided 
